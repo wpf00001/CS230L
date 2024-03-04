@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  
+}
+
+.card {
+  display: inline-block;
+  margin: 10px;
+}
+
+.card-container{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
 }
 
 .App-logo {
